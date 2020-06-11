@@ -1,0 +1,4 @@
+{
+    "rust-client.enableMultiProjectSetup": true,
+    "git.ignoreLimitWarning": true
+}
